@@ -130,6 +130,7 @@ Exemplo: Ryzen 3 3200U, Ryzen 5 3500U
 
 > [!CAUTION]
 > Evite a linha “Athlon” ou “A6 / A9” – fracos a todo custo!
+
 ### 2. Memória RAM
 O ideal é que o notebook tenha pelo menos 8 GB de RAM.  Pode ser 8 GB, 12 GB, 16 GB, etc.
 ### 3. SSD
@@ -137,12 +138,14 @@ Recomendo que o notebook tenha um SSD de 240 GB ou mais.
 
 >[!CAUTION]
 > Evite o HDD ou Hard Drive ou Disco Rigido que é muito lento!
+
 ### 4. Tela
  - Minimo: Full HD ou 1080p (1920×1080)
 
 - Ideal: IPS Full HD ou 1080p (melhores cores e ângulos de visão)
 
 - Evite telas HD 720p (1366x768): resolução ruim para leitura e produtividade.
+
 
 
 
