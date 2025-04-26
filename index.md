@@ -1,8 +1,8 @@
-❌️ Evite Marcas:
+# ❌️ Evite Marcas:
 
-Positivo
+- Positivo
 
-Multi (antigamente Multilaser)
+- Multi (antigamente Multilaser)
 
 
 Essas marcas, embora baratas, costumam ter desempenho fraco, construção frágil e suporte técnico ruim.
@@ -10,17 +10,17 @@ Essas marcas, embora baratas, costumam ter desempenho fraco, construção frági
 
 ---
 
-👌 Marcas Recomendadas:
+# 👌 Marcas Recomendadas:
 
-Dell
+- Dell
 
-Lenovo
+- Lenovo
 
-Acer
+- Acer
 
-Asus
+- Asus
 
-HP
+- HP
 
 
 Essas são marcas consolidadas, com bom suporte e confiabilidade.
@@ -28,26 +28,26 @@ Essas são marcas consolidadas, com bom suporte e confiabilidade.
 
 ---
 
-🧭 Ordem de Prioridades (1 = mais importante):
+# 🧭 Ordem de Prioridades (1 = mais importante):
 
 
 ---
 
-1️⃣ Processador
+## 1️⃣ Processador
 
 Você escolhe a marca Intel ou AMD. Se quiser AMD, pule a parte da Intel. Não se preocupe, eu o guio a escolher a melhor opção.
 
 
 ---
 
-💻 Para processadores Intel:
+### 💻 Para processadores Intel:
 
 💡 Atenção: Não basta olhar "Intel" ou "i5". É importante saber o número e a geração!
 
 
 ---
 
-✅ i5 acima da 12ª geração (principal prioridade)
+#### ✅ i5 acima da 12ª geração (principal prioridade)
 
 12ª geração – começa com “12”
 Exemplos bons:
@@ -79,7 +79,7 @@ H / HX = mais potentes, bom para tarefas mais pesadas
 
 ---
 
-☑️ i3 acima da 12ª geração (aceitável, para tarefas básicas)
+#### ☑️ i3 acima da 12ª geração (aceitável, para tarefas básicas)
 
 12ª geração:
 
@@ -102,14 +102,14 @@ Exemplo ruim: i5-1135G7 (11ª geração – começa com “11”)
 
 ---
 
-🔥 Processador AMD
+### 🔥 Processador AMD
 
 💡 Atenção: Não basta olhar "AMD" ou "Ryzen 5". É importante saber o número e a geração!
 
 
 ---
 
-✅ Ryzen 5 de 5ª geração ou mais (preferência principal)
+#### ✅ Ryzen 5 de 5ª geração ou mais (preferência principal)
 
 5ª geração – começa com “5”
 Exemplos bons:
@@ -140,7 +140,7 @@ Ryzen 5 7640HS
 
 ---
 
-☑️ Ryzen 3 de 5ª geração ou mais (aceitável)
+#### ☑️ Ryzen 3 de 5ª geração ou mais (aceitável)
 
 Exemplos:
 
@@ -164,7 +164,7 @@ Exemplo ruim: Ryzen 3 3200U, Ryzen 5 3500U
 
 ---
 
-2️⃣ Memória RAM
+## 2️⃣ Memória RAM
 
 O ideal é que o notebook tenha pelo menos 8 GB de RAM
 (pode ser 8 GB, 12 GB, 16 GB, etc.)
@@ -173,7 +173,7 @@ O ideal é que o notebook tenha pelo menos 8 GB de RAM
 
 ---
 
-3️⃣ SSD
+## 3️⃣ SSD
 
 Recomendo que o notebook tenha um SSD de 240 GB ou mais
 
@@ -183,7 +183,7 @@ Recomendo que o notebook tenha um SSD de 240 GB ou mais
 
 ---
 
-4️⃣ Tela
+## 4️⃣ Tela
 
 Mínimo: Full HD ou 1080p (1920×1080)
 
@@ -195,7 +195,7 @@ Ideal: IPS Full HD ou 1080p (melhores cores e ângulos de visão)
 
 ---
 
-❓ Não conseguiu identificar um deles no notebook?
+## ❓ Não conseguiu identificar um deles no notebook?
 
 Nem sempre dá pra confiar na loja ou no vendedor.
 
@@ -205,7 +205,7 @@ Muitas vezes aparece só “Intel Core i5” ou “Ryzen 5” — sem dizer o mo
 
 ---
 
-⚠️ Exemplo real:
+#### ⚠️ Exemplo real:
 
 A loja diz “i5”
 Parece moderno, mas na verdade é um i5 de 2ª geração (2011!)
@@ -223,7 +223,7 @@ Muitos não sabem exatamente o que estão vendendo, ou estão mal informados.
 
 ---
 
-🔍 Como descobrir o processador real:
+### 🔍 Como descobrir o processador real:
 
 1. Procure o nome exato do modelo do notebook
 
@@ -246,7 +246,7 @@ Procure o processador nas especificações técnicas (no site oficial ou sites c
 
 ---
 
-🔎 Identifique o modelo completo — não confie só no nome bonito.
+### 🔎 Identifique o modelo completo — não confie só no nome bonito.
 
 “Acer Aspire 5” não diz nada sozinho.
 
@@ -255,7 +255,7 @@ Pode ser bom, mediano ou horrível — vai depender do código exato do modelo.
 
 ---
 
-🆚 Exemplos:
+#### 🆚 Exemplos:
 
 Acer Aspire 5 A515-57-55B8
 
@@ -271,8 +271,5 @@ Acer Aspire 5 A515-54-39SA
 Tem um i3 de 10ª geração – bem mais fraco
 
 
-
-
----
 
 Parece tudo igual? Sim. Mas muda tudo por dentro.
