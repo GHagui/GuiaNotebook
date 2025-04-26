@@ -133,10 +133,11 @@ Exemplo: Ryzen 3 3200U, Ryzen 5 3500U
 
 ### 2. Memória RAM
 O ideal é que o notebook tenha pelo menos 8 GB de RAM.  Pode ser 8 GB, 12 GB, 16 GB, etc.
+
 ### 3. SSD
 Recomendo que o notebook tenha um SSD de 240 GB ou mais.
 
->[!CAUTION]
+> [!CAUTION]
 > Evite o HDD ou Hard Drive ou Disco Rigido que é muito lento!
 
 ### 4. Tela
